@@ -1,7 +1,7 @@
 #include "Game.h"
 
 Game::Game() : 
-m_window(sf::VideoMode(900, 900), "AI_Team_Project", sf::Style::Default),
+m_window(sf::VideoMode(900, 900), "VorEnv", sf::Style::Default),
 m_diagram()
 {
 }
